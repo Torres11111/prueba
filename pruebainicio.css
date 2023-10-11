@@ -1,0 +1,50 @@
+.navbar-brand{
+    font-size: 25px;
+    color: white;
+    margin-inline: 30px;
+    margin-right:95px;
+}
+.nav-link{
+    font-size: 20px;
+    margin-inline: 20px;
+    color: white;
+}
+.card{
+    width: 18rem;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    .card-title{
+        font-size: 20px;
+        color: rgb(0, 0, 0);
+
+    }
+    .card-text{
+        font-size: 12px;
+        color: rgb(59, 56, 56);
+        text-align: left;
+    }
+}
+.bi-person-circle{
+    font-size: 20px   ;
+    margin-inline:30px;
+    margin-left: 15px;
+    color: white;
+}
+
+.bi-cart4{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-right: 20px;
+    color: white;
+}
+.nav-link:hover, .bi-houses-fill:hover, .bi-person-circle:hover, .bi-cart4:hover{
+    color: #FA806B;
+}
+.container{
+    font-family: 'Playfair Display', serif;
+}
+.user{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-inline: 60px;
+}
