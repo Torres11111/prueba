@@ -1,0 +1,114 @@
+#InicioPagina{
+    color: white;
+}
+
+h1{ font-size: 36px;
+     color: rgb(255, 255, 255);
+    text-align: center;}
+
+h2,h3{font-size: 24px;
+      font-family: sans-serif;
+    color:rgb(245, 245, 245);
+    color: rgba(255, 2, 2, 0.545);}
+
+.conteiner{ color: rgb(96, 236, 255);
+text-decoration: line-through;}
+
+.Fuerza{color: rgb(255, 255, 255);}S
+
+#CreacionOsito{font-size: 24px;
+    color:rgb(255, 0, 0);
+}
+
+.Hola{text-decoration: underline;}
+
+.Hola123{font-style: italic;}
+.Hola1234{font-style:oblique;
+color: red;}
+
+.XD{font-style: italic;
+color: yellow;}
+.hhhh{color: white;}
+.iiii{
+    color: yellow;
+}
+.qqqq{
+    color: yellow;
+}
+.Huevi{
+    color: yellow;
+}
+.SAD{
+    text-decoration: underline;
+}
+.Huevi{
+    text-decoration: underline line-through;
+}
+
+.Regresar{
+    font-style: italic;
+    color:rgb(255, 0, 43);
+}
+
+#Photo{
+    border-radius: 30px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+
+  }
+.eeee{
+    color:lightgrey;
+}
+
+  .boxuno, .boxdos, .boxtres, .boxcuatro 
+  {
+    float: left;
+    width: 280px;
+    height: 180px;
+    background-color: rgb(231, 157, 44);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 80px 80px 80px 80px;
+    border: 5px solid rgb(255, 255, 255);
+    
+   
+  }
+
+
+  .Elemento1{
+position: relative;
+left: 6em;
+  }
+  .Elemento2{
+    position: relative;
+    left: 6em;
+      }
+      .Elemento3{
+        position: relative;
+        left: 6em;
+          }
+          .Elemento4{
+            position: relative;
+            left: 6em;
+              }
+body{
+    background-image: url(DreamShaper_v7_logo_para_tienda_de_ropa_de_alta_calidad_y_marc_0-_1_.webp);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 160px auto;
+}
+
+ol{
+    color: white;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    font-size: 40px;
+}
+
+body{
+  cursor: url(luisito.png),progress;
+}

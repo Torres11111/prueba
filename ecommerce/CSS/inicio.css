@@ -1,0 +1,42 @@
+.container{
+    font-family: 'Playfair Display', serif;
+}
+.navbar-brand{
+    font-size: 25px;
+    color: white;
+    margin-inline: 7px;
+    margin-right: 55px;
+}
+.nav-link{
+    font-size: 20px;
+    margin-inline: 20px;
+    color: white;
+}
+.nav-link:hover, .casa:hover, .bi-person-circle:hover{
+    color: #FA806B;
+}
+.card{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    float:left;
+    width: 33px;
+    margin-inline: 66px;
+}
+.card-text {
+    color: black;
+    text-align: center;
+}
+.user{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-inline: -10px;
+}
+.producto{
+    background-color: #2b251e;
+}
+.bi-person-circle{
+    font-size: 20px   ;
+    margin-right: 10px;
+    margin-left: 50px;
+    color: white;
+}
