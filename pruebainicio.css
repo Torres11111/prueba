@@ -48,3 +48,12 @@
     color: white;
     margin-inline: 60px;
 }
+.py-4{
+    text-align: center;
+}
+.NombrePagina{
+    font-size: 30px;
+    color: white;
+    margin-right: 25px;
+    margin-left: 25px;
+}
